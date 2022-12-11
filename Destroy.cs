@@ -1,0 +1,4 @@
+void Start()
+{
+Destroy(gameObject);
+}
